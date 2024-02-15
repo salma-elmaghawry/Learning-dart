@@ -10,9 +10,7 @@ void main() {
   =>collection data types 
 
    */
-  // String name = "salma";
-  // print("name is :$name");
-  // name = "elmaghawry";
+  /*========================================================= */
 
   //string
   String text = "Salma Elmaghawry is my name ";
@@ -23,7 +21,17 @@ void main() {
   \n =>new line
   r  => row string  بحطها قبل الاسترنج لو عايو اطبع كل حاجه فيه زى ما هى 
    */
-  
-  print(r"salma\'s $  bag");//هيطبع الاسترنج زى ما هو بالضبط 
+
+  print(r"salma\'s $  bag"); //هيطبع الاسترنج زى ما هو بالضبط
+/*----------------------------------------------------------------- */
+  //int
+  int age=45;
+  print("My age is $age ");
+  /*
+  int =>intger
+
+   */
+  /*----------------------------------------------------------------- */
+
   
 }
