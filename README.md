@@ -1,1 +1,1 @@
-<h1>📌These are my notes from my journey to learning dart</h1>
+<h1>📌My notes from my journey to learning dart</h1>
