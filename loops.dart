@@ -12,12 +12,14 @@ void main() {
   }
   //===============while loop===================//
   int x = 5;
-  bool isRunning = false;
+  bool isRunning = true;
   while (isRunning) {
     print("salma elmaghawry");
   }
+  //==================do while loop ====================
+  //to do anything one time
+  do {
+    print("is Running");
+  } while (isRunning);
 
-  //==================do while loop ====================//
-  
-  
-}
+
