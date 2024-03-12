@@ -8,3 +8,10 @@ int sumTwoNumbers(int num1, int num2, int num3) {
   print(result);
   return result;
 }
+/*
+parameter=> لما انا انشات متغير فى الفاكشن 
+int num1, int num2, int num3
+
+argument => القيم اللى هتتخزن فى البارامتر 
+3, 7, 3
+ */
